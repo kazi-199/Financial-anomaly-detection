@@ -1,2 +1,4 @@
 # Financial-anomaly-detection
 Financial anomaly detection金融异常检测
+运行train_2,model_sage,results_data_pred保存在results中
+测试时直接读取results_data_pred
